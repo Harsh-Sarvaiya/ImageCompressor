@@ -1,5 +1,5 @@
 
-# Image Compressor
+# Image Compressor (wrote this readme with chatgpt lol)
 
 ## Overview
 
