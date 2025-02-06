@@ -78,4 +78,4 @@ compress_image("image1.jpg", max_size_mb=1.0)  # Compress to max 1MB
 This project is open-source and available for modification and distribution.
 
 **Authors:** Harsh Sarvaiya, chatGPT (for this readme)
-**GitHub:** [YourGitHubProfile](https://github.com/harsh-sarvaiya)
+**GitHub:** [GitHub](https://github.com/harsh-sarvaiya)
