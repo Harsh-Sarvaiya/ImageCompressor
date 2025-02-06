@@ -1,29 +1,3 @@
-# Image Compressor
-
-## Overview
-
-This is a simple Python script that compresses JPEG images while maintaining an optimal balance between quality and file size. It automatically scans the current directory for JPG files and allows the user to select an image to compress. The script reduces the file size by adjusting the JPEG quality while ensuring the image remains within a specified maximum file size.
-
-## Features
-
-- Compresses JPEG images to a target maximum size (default: **0.5MB**).
-- Reduces image quality iteratively while optimizing the output.
-- Works with JPG files in the current directory.
-- Allows user selection if multiple images are present.
-- Converts images with **RGBA** or **P** mode to **RGB** to ensure compatibility.
-
-## Requirements
-
-- **Python 3.x**
-- **Pillow (PIL) library**
-
-## Installation
-
-Ensure you have Python installed. You also need the Pillow library, which can be installed via pip:
-
-```bash
-pip install pillow
-
 
 # Image Compressor
 
